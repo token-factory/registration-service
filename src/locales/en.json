@@ -1,0 +1,13 @@
+{
+	"Hello": "Hello",
+	"create.user.fail": "Failed to create user",
+	"duplicate.user.fail": "Email address already in use",
+	"no.user.email" : "No user with that email",
+	"no.user.id" : "No user with that id",
+	"too.many.login.attempts" : "Too many failed login attempts",
+	"incorrect.password" : "Incorrect password",
+	"create.tenant.fail" : "Failed to create tenant",
+	"no.tenant.fail" : "No tenant with that id",
+	"failed.email.send" : "Unable to send email",
+	"duplicate.tenant.fail": "Tenant name already in use"
+}
